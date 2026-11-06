@@ -15,7 +15,7 @@
 | Role | Work |
 |---|---|
 | **Undergraduate Research Assistant**, AI4 Research Lab *(current)* | **LLM/NLP** pipeline linking ReDU and NCBI SRA accessions across 10,000+ PubMed manuscripts. |
-| **Data Analytics Intern**, IBM *(incoming)* | New York City. |
+| **Data Analytics Intern**, IBM *(incoming, Winter 2026)* | New York City. |
 | **Software Engineer Intern**, Caterpillar | **PyTorch** forecasting on 1M+ supply-chain records, batched inference on **Docker/Kubernetes**. |
 | **Data Analytics Intern**, Atlas Analytics | **Scikit-learn** churn classification and daily scoring for 45,000 customers. |
 | **Data Analytics Project Lead**, Nittany Data Labs | **SQL** analysis and anomaly detection over 20,000+ financial records. |
